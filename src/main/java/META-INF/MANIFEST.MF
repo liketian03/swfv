@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Implementation-Title: Apache Commons Email
+Implementation-Version: 1.5
+Archiver-Version: Plexus Archiver
+Built-By: bodewig
+Specification-Vendor: The Apache Software Foundation
+Specification-Title: Apache Commons Email
+Implementation-Vendor-Id: org.apache.commons
+Implementation-Vendor: The Apache Software Foundation
+Created-By: Apache Maven
+Build-Jdk: 1.8.0_131
+Specification-Version: 1.5
+Implementation-URL: http://commons.apache.org/proper/commons-email/
+
